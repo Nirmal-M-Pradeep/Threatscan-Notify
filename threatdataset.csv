@@ -1,0 +1,616 @@
+category,word,severity
+Violence,abuse,High
+Violence,aggressor,High
+Violence,assassin,High
+Violence,berserk,Medium
+Violence,bloodlust,High
+Violence,brute,Medium
+Violence,chaos,High
+Violence,coercion,Medium
+Violence,cruel,Medium
+Violence,devastation,High
+Violence,fatal,High
+Violence,harm,Medium
+Violence,harass,Medium
+Violence,hate,High
+Violence,hostility,Medium
+Violence,intimidation,Medium
+Violence,malice,Medium
+Violence,marauder,High
+Violence,mobster,High
+Violence,mutiny,High
+Violence,ruthless,Medium
+Violence,savagery,High
+Violence,slaughter,High
+Violence,snare,Medium
+Violence,torment,High
+Violence,vengeance,High
+Violence,violent,High
+Violence,warfare,High
+Violence,whiplash,Medium
+Violence,annihilation,High
+Violence,panic,Medium
+Violence,provoked,Medium
+Violence,riot instigators,High
+Violence,massacre,High
+Violence,kill,High
+Violence,murder,High
+Violence,stab,High
+Violence,shoot,High
+Violence,slay,High
+Violence,strangle,High
+Violence,torture,High
+Violence,assault,High
+Violence,batter,Medium
+Violence,abduction,High
+Violence,lynch,High
+Violence,maim,High
+Violence,beat,Medium
+Violence,aggressiveness,Medium
+Violence,brutalize,High
+Violence,genocide,High
+Violence,violence-inducing,High
+Violence,victimization,Medium
+Violence,relentless persecution,High
+Violence,barbarity,High
+Violence,mistreatment,Medium
+Violence,terrorization,High
+Violence,forceful destruction,High
+Violence,hostility-driven actions,Medium
+Violence,oppression through power,Medium
+Violence,oppression of others,Medium
+Violence,scapegoating,Medium
+Violence,manhunt,Medium
+Violence,annihilation attempts,High
+Violence,heinous acts,High
+Violence,destruction,High
+Violence,brutality,High
+Violence,obliteration,High
+Violence,carnage,High
+Violence,melee,Medium
+Violence,hostility,Medium
+Violence,savage attack,High
+Violence,murderous rampage,High
+Violence,predatory violence,High
+Violence,forcefulness,Medium
+Violence,battering,Medium
+Violence,killing spree,High
+Violence,human rights abuse,High
+Violence,civil unrest,Medium
+Violence,desolation,Medium
+Violence,desecration,Medium
+Violence,predatory nature,Medium
+Violence,plunder,Medium
+Violence,rampage,High
+Violence,bloodshed,High
+Violence,looting,Medium
+Violence,indiscriminate attacks,High
+Violence,violent uproar,High
+Violence,atrocity,High
+Violence,riot,Medium
+Violence,anarchic behavior,Medium
+Violence,mutilation,High
+Violence,violent protest,Medium
+Violence,guerrilla violence,High
+Violence,gunfire,High
+Violence,mobbing,Medium
+Violence,vendetta,Medium
+Violence,clash,Medium
+Violence,feud,Medium
+Violence,retaliation,Medium
+Violence,hostility escalation,Medium
+Violence,violent standoff,Medium
+Violence,deadly ambush,High
+Violence,ruthless violence,High
+Violence,savage nature,High
+Violence,indiscriminate killings,High
+Violence,ruthless aggression,High
+Violence,sadism,High
+Violence,cruelty,Medium
+Violence,violent uprising,High
+Violence,decimation,High
+Violence,mass chaos,High
+Violence,violent storm,High
+Violence,physical altercation,Medium
+Violence,mob control,Medium
+Violence,blood-curdling events,High
+Violence,physical coercion,Medium
+Violence,lynching,High
+Violence,systemic oppression,Medium
+Violence,vendetta escalations,Medium
+Violence,weaponized violence,High
+Violence,manslaughter,High
+Violence,physical abuse,Medium
+Violence,harassment escalation,Medium
+Violence,mob psychology,Medium
+Violence,war-like conditions,High
+Violence,battlefield chaos,High
+Violence,violent crime scene,High
+Violence,terror-driven riots,High
+Violence,blood-soaked violence,High
+Violence,excessive brutality,High
+Violence,targeted oppression,Medium
+Violence,mass panic escalation,High
+Violence,physical beatings,Medium
+Violence,unchecked aggression,Medium
+Violence,psychological trauma,Medium
+Violence,violent coercion,Medium
+Violence,destructive uprising,High
+Violence,emotional torment,Medium
+Violence,savage feuds,High
+Violence,bloodbath aftermath,High
+Violence,mass cruelty,High
+Violence,uncontrolled savagery,High
+Violence,vicious confrontations,Medium
+Violence,perpetual oppression,Medium
+Violence,untamed violence,High
+Violence,bloody massacres,High
+Violence,catastrophic attacks,High
+Violence,traumatic events,Medium
+Crime,blackmail,High
+Crime,corruption,Medium
+Crime,embezzlement,Medium
+Crime,extortion,High
+Crime,fraud,Medium
+Crime,theft,Medium
+Crime,vandalism,Medium
+Crime,treason,High
+Crime,smuggling,Medium
+Crime,piracy,High
+Crime,ransom,High
+Crime,perjury,Medium
+Crime,robbery,Medium
+Crime,arson,High
+Crime,burglary,Medium
+Crime,drug trafficking,High
+Crime,human trafficking,High
+Crime,hijacking,High
+Crime,money laundering,Medium
+Crime,bribery,Medium
+Crime,forgery,Medium
+Crime,identity theft,Medium
+Crime,cybercrime,Medium
+Crime,espionage,High
+Crime,counterfeiting,Medium
+Crime,plagiarism,Low
+Crime,illegal trading,Medium
+Crime,organized crime,High
+Crime,insider trading,Medium
+Crime,credit card fraud,Medium
+Crime,false imprisonment,High
+Crime,criminal syndicate,High
+Crime,illegal gambling,Medium
+Crime,racketeering,High
+Crime,poaching,Medium
+Crime,tax evasion,Medium
+Crime,misconduct,Low
+Crime,hit-and-run,High
+Crime,narcotics distribution,High
+Crime,illegal weapon trade,High
+Crime,cyberfraud,Medium
+Crime,fraudulent schemes,Medium
+Crime,financial misappropriation,Medium
+Crime,document falsification,Medium
+Crime,gang activities,High
+Crime,bribe-giving,Medium
+Crime,credit fraud,Medium
+Crime,tax fraud,Medium
+Crime,unethical practices,Low
+Crime,document forgery,Medium
+Crime,assassination,High
+Crime,money embezzlement,Medium
+Crime,burglary ring,Medium
+Crime,forged credentials,Medium
+Crime,crime syndicate,High
+Crime,illegal smuggling,Medium
+Crime,weapon trafficking,High
+Crime,underworld dealings,High
+Crime,organized theft,Medium
+Crime,illicit activity,Medium
+Crime,conspiracy,Medium
+Crime,crime bosses,High
+Crime,bank robbery,High
+Crime,petty theft,Low
+Crime,armed robbery,High
+Crime,cyber espionage,High
+Crime,contract killing,High
+Crime,extortion scheme,High
+Crime,racketeering operations,High
+Crime,organized fraud,Medium
+Crime,data theft,Medium
+Crime,hacking,Medium
+Crime,black-market dealings,Medium
+Crime,cross-border crime,Medium
+Crime,legal malpractice,Medium
+Crime,financial fraud,Medium
+Crime,rogue organizations,High
+Crime,drug cartel activities,High
+Crime,undercover smuggling,Medium
+Crime,contract fraud,Medium
+Crime,human exploitation,High
+Crime,trade secrets theft,Medium
+Crime,underground networks,High
+Crime,cross-border fraud,Medium
+Crime,stolen property dealing,Medium
+Crime,mob operations,High
+Crime,kidnapping,High
+Crime,white-collar crime,Medium
+Crime,cyber scams,Medium
+Crime,illegal logging,Medium
+Crime,gold smuggling,Medium
+Crime,illegal fishing,Medium
+Crime,crime racket,Medium
+Crime,trafficking syndicates,High
+Crime,armed heists,High
+Crime,secret documents theft,Medium
+Crime,forgery of evidence,Medium
+Crime,ransom demands,High
+Crime,transnational crime,Medium
+Crime,arms dealing,High
+Crime,fake identity rings,Medium
+Crime,forged signatures,Medium
+Crime,tax fraud operations,Medium
+Crime,immigration smuggling,Medium
+Crime,illegal surveillance,Medium
+Crime,asset laundering,Medium
+Crime,financial scams,Medium
+Crime,rogue traders,Medium
+Crime,grand larceny,Medium
+Crime,high-profile heists,High
+Crime,arson attack,High
+Crime,sabotage attempts,High
+Crime,robbery at gunpoint,High
+Crime,malicious prosecution,Medium
+Crime,insider threats,Medium
+Crime,false claims,Low
+Crime,pyramid schemes,Low
+Crime,illegal drug trade,High
+Crime,computer hacking,Medium
+Crime,art theft,Medium
+Crime,illegal poaching,Medium
+Crime,wildlife crime,Medium
+Crime,smuggling routes,Medium
+Crime,law-breaking activities,Medium
+Crime,political corruption,Medium
+Crime,dark web deals,High
+Crime,trafficking networks,High
+Crime,transnational smuggling,Medium
+Crime,arms distribution,High
+Crime,false arrest,Medium
+Crime,power abuse,Medium
+Crime,public misconduct,Low
+Crime,political scams,Medium
+Crime,cyberstalking,Medium
+Crime,bribe-taking,Medium
+Crime,election fraud,Medium
+Crime,identity forging,Medium
+Crime,contract breaches,Low
+Crime,rogue hackers,Medium
+Crime,criminal activity escalation,High
+Crime,criminal negligence,Medium
+Crime,drug syndicates,High
+Crime,illegal arms trade,High
+Crime,corporate espionage,Medium
+Crime,insider knowledge abuse,Medium
+Crime,police corruption,Medium
+Crime,rogue states crimes,High
+Crime,illegal profiteering,Medium
+Crime,pyramid scheme escalation,Low
+Crime,corporate fraud,Medium
+Insecurity,fear,Medium
+Insecurity,vulnerability,Medium
+Insecurity,anxiety,Medium
+Insecurity,panic,Medium
+Insecurity,distrust,Medium
+Insecurity,invasion,Medium
+Insecurity,threats,Medium
+Insecurity,intimidation,Medium
+Insecurity,victimization,Medium
+Insecurity,terrorism,High
+Insecurity,paranoia,Medium
+Insecurity,instability,Medium
+Insecurity,psychological distress,Medium
+Insecurity,harassment,Medium
+Insecurity,insecurity,Medium
+Insecurity,mistrust,Medium
+Insecurity,terror,High
+Weapons,AK-47,High
+Weapons,RPG,High
+Weapons,grenade,High
+Weapons,sniper rifle,High
+Weapons,IED,High
+Weapons,assault rifle,High
+Weapons,rocket launcher,High
+Weapons,chemical weapon,High
+Weapons,machine gun,High
+Weapons,handgun,Medium
+Weapons,firearm,Medium
+Weapons,nuclear bomb,High
+Weapons,landmine,High
+Weapons,mortar,High
+Weapons,flame thrower,High
+Weapons,tactical grenade,Medium
+Weapons,ballistic missile,High
+Weapons,crossbow,Medium
+Weapons,shotgun,Medium
+Weapons,artillery,High
+Weapons,chemical agent,High
+Weapons,pipe bomb,High
+Weapons,biological weapon,High
+Weapons,booby trap,High
+Weapons,car bomb,High
+Weapons,dirty bomb,High
+Weapons,explosive device,High
+Weapons,claymore mine,High
+Weapons,surface-to-air missile,High
+Weapons,sabotage device,High
+Weapons,incendiary device,High
+Weapons,assault weapon,High
+Weapons,submachine gun,High
+Weapons,grenade launcher,High
+Weapons,sniper,High
+Weapons,armor-piercing bullet,High
+Weapons,military drone,High
+Weapons,bomb vest,High
+Weapons,RPG launcher,High
+Weapons,explosive charge,High
+Weapons,tomahawk missile,High
+Weapons,rocket-propelled grenade,High
+Weapons,flame projector,High
+Weapons,molotov cocktail,Medium
+Weapons,combat knife,Medium
+Weapons,tactical vest,Medium
+Weapons,fragmentation grenade,High
+Weapons,incendiary bomb,High
+Weapons,bomb-making materials,High
+Weapons,tear gas,Medium
+Weapons,plasma gun,High
+Weapons,drone strike,High
+Weapons,guided missile,High
+Weapons,chemical spill,High
+Weapons,bomb attack,High
+Weapons,flamethrower attack,High
+Weapons,weaponized virus,High
+Weapons,WMD,High
+Weapons,sniper attack,High
+Weapons,military-grade ammo,Medium
+Weapons,claymore mine attack,High
+Weapons,assault ammunition,High
+Weapons,high-explosive shells,High
+Weapons,toxic agent,High
+Weapons,firearm ammunition,Medium
+Weapons,ballistic armor,Medium
+Weapons,weapon cache,Medium
+Weapons,grenade blast,High
+Weapons,mortar shell,High
+Weapons,bomb raid,High
+Weapons,chemical warfare,High
+Weapons,rocket launcher attack,High
+Weapons,weaponized drone,High
+Weapons,battle rifle,Medium
+Weapons,gunfire exchange,Medium
+Weapons,precision bombing,High
+Weapons,tank warfare,High
+Weapons,heavy artillery,High
+Weapons,anti-tank weapon,High
+Weapons,sabotaging devices,High
+Weapons,explosive launchers,High
+Weapons,self-loading pistol,Medium
+Weapons,combat aircraft,High
+Weapons,subsonic ammunition,Medium
+Weapons,missile strike,High
+Weapons,cruise missile,High
+Weapons,handgun recoil,Medium
+Weapons,automatic rifle,High
+Weapons,hunting rifle,Medium
+Weapons,projectile weapon,Medium
+Weapons,explosive charge,High
+Weapons,weaponizing agents,High
+Weapons,shoulder-mounted missile,High
+Weapons,automatic shotgun,High
+Weapons,booby-trap bomb,High
+Weapons,tactical explosion,High
+Weapons,battlefield weaponry,High
+Weapons,military firearm,High
+Weapons,hand grenade,High
+Weapons,machine gunfire,High
+Weapons,covert weapon,Medium
+Weapons,improvised explosive device,High
+Weapons,sniper rifle scope,Medium
+Weapons,illegal firearm,High
+Weapons,military strike,High
+Weapons,projectile attack,High
+Weapons,lethal weapon,High
+Weapons,grenade launcher attack,High
+Weapons,portable missile,High
+Weapons,trigger-happy,Medium
+Weapons,military equipment,Medium
+Weapons,explosive warhead,High
+Weapons,bomb disposal,Medium
+Weapons,drone bombing,High
+Weapons,hypersonic missile,High
+Weapons,armored vehicle,High
+Weapons,nuclear warhead,High
+Weapons,shotguns,Medium
+Weapons,thermobaric bomb,High
+Weapons,suicide bomber,High
+Weapons,bomb-making,High
+Weapons,hostile takeover,Medium
+Weapons,shelling,Medium
+Weapons,weapon systems,Medium
+Weapons,rocket-propelled grenade launcher,High
+Weapons,chemical warfare agent,High
+Weapons,underhanded weapons,Medium
+Weapons,dangerous firearms,High
+Weapons,secret weapon,Medium
+Weapons,toxic warfare,High
+Weapons,warhead technology,High
+Weapons,exploding ammunition,High
+Weapons,biological warfare,High
+Weapons,defense strike,Medium
+Weapons,high-explosive device,High
+Weapons,anti-aircraft gun,High
+Weapons,rocket-propelled missile,High
+Weapons,fighter jet,High
+Weapons,anti-personnel mine,High
+Weapons,incendiary ammunition,High
+Weapons,explosive grenades,High
+Weapons,battle machine,High
+Weapons,uranium weaponry,High
+Weapons,long-range missiles,High
+Weapons,tactical assault rifle,High
+Weapons,infrared weapons,High
+Weapons,explosive barrels,Medium
+Weapons,flashbang grenade,Medium
+Weapons,anti-personnel device,High
+Weapons,war drone,High
+category,word,severity
+Hazards,risk,Medium
+Hazards,dangerous,High
+Hazards,catastrophe,High
+Hazards,peril,High
+Hazards,crisis,High
+Hazards,emergency,High
+Hazards,danger zone,Medium
+Hazards,seismic hazard,High
+Hazards,hazardous,Medium
+Hazards,outbreak,High
+Hazards,epidemic,High
+Hazards,toxic spill,High
+Hazards,natural disaster,High
+Hazards,fire,High
+Hazards,earthquake,High
+Hazards,flood,High
+Hazards,storm,High
+Hazards,avalanche,High
+Hazards,volcanic eruption,High
+Hazards,landslide,High
+Hazards,tornado,High
+Hazards,hurricane,High
+Hazards,sinkhole,Medium
+Hazards,heatwave,Medium
+Hazards,plague,High
+Hazards,biological hazard,High
+Hazards,radioactive leak,High
+Hazards,gas leak,High
+Hazards,pollution,Medium
+Hazards,chemical spill,High
+Hazards,air pollution,Medium
+Hazards,contaminated water,High
+Hazards,climate change,Medium
+Hazards,drought,Medium
+Hazards,deforestation,Medium
+Hazards,contaminated soil,Medium
+Hazards,high winds,Medium
+Hazards,toxic air,High
+Hazards,wildfires,High
+Hazards,smog,Medium
+Hazards,environmental collapse,High
+Hazards,flooding,High
+Hazards,insect infestation,Medium
+Hazards,radiation poisoning,High
+Hazards,vector-borne diseases,High
+Hazards,biohazard,High
+Hazards,mold growth,Medium
+Hazards,fracking dangers,Medium
+Hazards,oil spill,High
+Hazards,heat stroke,High
+Hazards,asphyxiation,High
+Hazards,methane gas,High
+Hazards,unsafe structures,Medium
+Hazards,frozen roads,Medium
+Hazards,traffic collision,Medium
+Hazards,nuclear disaster,High
+Hazards,civil disorder,Medium
+Hazards,invasion of pests,Medium
+Hazards,heavy rain,Medium
+Hazards,freezing temperatures,Medium
+Hazards,collapsing buildings,High
+Hazards,urban sprawl,Low
+Hazards,car accident,Medium
+Hazards,unsafe food,Medium
+Hazards,toxic chemicals,High
+Hazards,electrical hazards,Medium
+Hazards,unsanitary conditions,Medium
+Hazards,unsafe working conditions,Medium
+Hazards,structural failure,High
+Hazards,infrastructure collapse,High
+Hazards,hazardous waste,High
+Hazards,unsafe transportation,Medium
+Hazards,biological contamination,High
+Hazards,contamination spread,High
+Hazards,faulty equipment,Medium
+Hazards,unstable terrain,Medium
+Hazards,falling objects,Medium
+Hazards,landslide threat,High
+Hazards,falling debris,Medium
+Hazards,uncontrolled explosions,High
+Hazards,toxic fumes,High
+Hazards,poisonous gases,High
+Hazards,microbe contamination,High
+Hazards,unsafe buildings,Medium
+Hazards,excessive noise,Low
+Hazards,unsafe pesticides,Medium
+Hazards,radioactivity,High
+Hazards,extreme cold,Medium
+Hazards,extreme heat,Medium
+Hazards,airborne pollutants,Medium
+Hazards,disease outbreak,High
+Hazards,chemical exposure,High
+Hazards,deforestation effects,Medium
+Hazards,nuclear fallout,High
+Hazards,storm surge,High
+Hazards,unsafe chemicals,High
+Hazards,contaminated air,High
+Hazards,accidental explosions,High
+Hazards,vehicular accidents,Medium
+Hazards,industrial hazard,High
+Hazards,unsafe machinery,Medium
+Hazards,infection spread,High
+Hazards,methane explosion,High
+Hazards,contamination outbreak,High
+Hazards,exposure to toxins,High
+Hazards,contagious diseases,High
+Hazards,wild animal threat,Medium
+Hazards,emergency response failure,High
+Hazards,flash floods,High
+Hazards,rising sea levels,Medium
+Hazards,severe weather,Medium
+Hazards,biological spill,High
+Hazards,traffic accidents,Medium
+Hazards,unstable buildings,High
+Hazards,extreme weather,High
+Hazards,radon exposure,High
+Hazards,flood risk,High
+Hazards,fire hazard,High
+Hazards,dangerous driving conditions,Medium
+Hazards,toxic materials,High
+Hazards,deteriorating infrastructure,High
+Hazards,natural hazards,Medium
+Hazards,air contamination,High
+Hazards,factory explosion,High
+Hazards,structural collapse,High
+Hazards,rapid fire spread,High
+Hazards,hazardous terrain,Medium
+Hazards,flash fire,High
+Hazards,nuclear contamination,High
+Hazards,biological threat,High
+Hazards,carbon monoxide poisoning,High
+Hazards,fuel leak,High
+Hazards,harmful emissions,Medium
+Hazards,pesticide exposure,Medium
+Hazards,electrical fire,High
+Hazards,exposure to lead,Medium
+Hazards,dangerous equipment,Medium
+Hazards,exposed cables,Medium
+Hazards,forest fire,High
+Hazards,foodborne illness,Medium
+Hazards,unsafe sewage,Medium
+Hazards,mass hysteria,Medium
+Hazards,air quality degradation,Medium
+Hazards,harmful toxins,High
+Hazards,drought conditions,Medium
+Hazards,hazardous environment,High
+Hazards,chlorine exposure,Medium
+Hazards,storm destruction,High
+

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>ThreatScan Notify</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Raleway:wght@300;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>ThreatScan Notify</h1>
+            <p>Efficiently analyze audio for potential threats with real-time feedback.</p>
+
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="upload-section">
+                <h2><i class="fa fa-upload"></i>Upload Your Audio File(mp3)</h2>
+                <form id="uploadForm">
+                    <div class="drag-drop" id="dropArea">
+                        <p>Drag and drop your file here or click to upload</p>
+                        <input type="file" id="audioInput" class="file-input" accept=".mp3">
+                    </div>
+                    <button type="submit" class="upload-btn" >Upload & Analyze</button>
+                </form>
+                <div class="progress-container">
+                    <div class="progress-bar" id="progressBar"></div>
+                </div>
+                <p id="statusMessage"></p>
+            </section>
+
+            <section class="result-action">
+                <h2><i class="fa fa-chart-bar"></i>Analysis Result</h2>
+                <div id="results">
+                    <p>No results yet.Upload an Audio File to start.</p>
+
+
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>&copy;2025 ThreatScan Notify.All rights reserved</p>
+    </footer>
+
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="../static/script.js"></script>
+    
+
+    
+</body>
+</html>

@@ -1,0 +1,616 @@
+category,words
+Violence,abuse
+Violence,aggressor
+Violence,assassin
+Violence,berserk
+Violence,bloodlust
+Violence,brute
+Violence,chaos
+Violence,coercion
+Violence,cruel
+Violence,devastation
+Violence,fatal
+Violence,harm
+Violence,harass
+Violence,hate
+Violence,hostility
+Violence,intimidation
+Violence,malice
+Violence,marauder
+Violence,mobster
+Violence,mutiny
+Violence,ruthless
+Violence,savagery
+Violence,slaughter
+Violence,snare
+Violence,torment
+Violence,vengeance
+Violence,violent
+Violence,warfare
+Violence,whiplash
+Violence,annihilation
+Violence,panic
+Violence,provoked
+Violence,riot instigators
+Violence,massacre
+Violence,kill
+Violence,murder
+Violence,stab
+Violence,shoot
+Violence,slay
+Violence,strangle
+Violence,torture
+Violence,assault
+Violence,batter
+Violence,abduction
+Violence,lynch
+Violence,maim
+Violence,beat
+Violence,aggressiveness
+Violence,brutalize
+Violence,genocide
+Violence,violence-inducing
+Violence,victimization
+Violence,relentless persecution
+Violence,barbarity
+Violence,mistreatment
+Violence,terrorization
+Violence,forceful destruction
+Violence,hostility-driven actions
+Violence,oppression through power
+Violence,oppression of others
+Violence,scapegoating
+Violence,manhunt
+Violence,annihilation attempts
+Violence,heinous acts
+Violence,destruction
+Violence,brutality
+Violence,obliteration
+Violence,carnage
+Violence,melee
+Violence,hostility
+Violence,savage attack
+Violence,murderous rampage
+Violence,predatory violence
+Violence,forcefulness
+Violence,battering
+Violence,killing spree
+Violence,human rights abuse
+Violence,civil unrest
+Violence,desolation
+Violence,desecration
+Violence,predatory nature
+Violence,plunder
+Violence,rampage
+Violence,bloodshed
+Violence,looting
+Violence,indiscriminate attacks
+Violence,violent uproar
+Violence,atrocity
+Violence,riot
+Violence,anarchic behavior
+Violence,mutilation
+Violence,violent protest
+Violence,guerrilla violence
+Violence,gunfire
+Violence,mobbing
+Violence,vendetta
+Violence,clash
+Violence,feud
+Violence,retaliation
+Violence,hostility escalation
+Violence,violent standoff
+Violence,deadly ambush
+Violence,ruthless violence
+Violence,savage nature
+Violence,indiscriminate killings
+Violence,ruthless aggression
+Violence,sadism
+Violence,cruelty
+Violence,violent uprising
+Violence,decimation
+Violence,mass chaos
+Violence,violent storm
+Violence,physical altercation
+Violence,mob control
+Violence,blood-curdling events
+Violence,physical coercion
+Violence,lynching
+Violence,systemic oppression
+Violence,vendetta escalations
+Violence,weaponized violence
+Violence,manslaughter
+Violence,physical abuse
+Violence,harassment escalation
+Violence,mob psychology
+Violence,war-like conditions
+Violence,battlefield chaos
+Violence,violent crime scene
+Violence,terror-driven riots
+Violence,blood-soaked violence
+Violence,excessive brutality
+Violence,targeted oppression
+Violence,mass panic escalation
+Violence,physical beatings
+Violence,unchecked aggression
+Violence,psychological trauma
+Violence,violent coercion
+Violence,destructive uprising
+Violence,emotional torment
+Violence,savage feuds
+Violence,bloodbath aftermath
+Violence,mass cruelty
+Violence,uncontrolled savagery
+Violence,vicious confrontations
+Violence,perpetual oppression
+Violence,untamed violence
+Violence,bloody massacres
+Violence,catastrophic attacks
+Violence,traumatic events
+Crime,blackmail
+Crime,corruption
+Crime,embezzlement
+Crime,extortion
+Crime,fraud
+Crime,theft
+Crime,vandalism
+Crime,treason
+Crime,smuggling
+Crime,piracy
+Crime,ransom
+Crime,perjury
+Crime,robbery
+Crime,arson
+Crime,burglary
+Crime,drug trafficking
+Crime,human trafficking
+Crime,hijacking
+Crime,money laundering
+Crime,bribery
+Crime,forgery
+Crime,identity theft
+Crime,cybercrime
+Crime,espionage
+Crime,counterfeiting
+Crime,plagiarism
+Crime,illegal trading
+Crime,organized crime
+Crime,insider trading
+Crime,credit card fraud
+Crime,false imprisonment
+Crime,criminal syndicate
+Crime,illegal gambling
+Crime,racketeering
+Crime,poaching
+Crime,tax evasion
+Crime,misconduct
+Crime,hit-and-run
+Crime,narcotics distribution
+Crime,illegal weapon trade
+Crime,cyberfraud
+Crime,fraudulent schemes
+Crime,financial misappropriation
+Crime,document falsification
+Crime,gang activities
+Crime,bribe-giving
+Crime,credit fraud
+Crime,tax fraud
+Crime,unethical practices
+Crime,document forgery
+Crime,assassination
+Crime,money embezzlement
+Crime,burglary ring
+Crime,forged credentials
+Crime,crime syndicate
+Crime,illegal smuggling
+Crime,weapon trafficking
+Crime,underworld dealings
+Crime,organized theft
+Crime,illicit activity
+Crime,conspiracy
+Crime,crime bosses
+Crime,bank robbery
+Crime,petty theft
+Crime,armed robbery
+Crime,cyber espionage
+Crime,contract killing
+Crime,extortion scheme
+Crime,racketeering operations
+Crime,organized fraud
+Crime,data theft
+Crime,hacking
+Crime,black-market dealings
+Crime,cross-border crime
+Crime,legal malpractice
+Crime,financial fraud
+Crime,rogue organizations
+Crime,drug cartel activities
+Crime,undercover smuggling
+Crime,contract fraud
+Crime,human exploitation
+Crime,trade secrets theft
+Crime,underground networks
+Crime,cross-border fraud
+Crime,stolen property dealing
+Crime,mob operations
+Crime,kidnapping
+Crime,white-collar crime
+Crime,cyber scams
+Crime,illegal logging
+Crime,gold smuggling
+Crime,illegal fishing
+Crime,crime racket
+Crime,trafficking syndicates
+Crime,armed heists
+Crime,secret documents theft
+Crime,forgery of evidence
+Crime,ransom demands
+Crime,transnational crime
+Crime,arms dealing
+Crime,fake identity rings
+Crime,forged signatures
+Crime,tax fraud operations
+Crime,immigration smuggling
+Crime,illegal surveillance
+Crime,asset laundering
+Crime,financial scams
+Crime,rogue traders
+Crime,grand larceny
+Crime,high-profile heists
+Crime,arson attack
+Crime,sabotage attempts
+Crime,robbery at gunpoint
+Crime,malicious prosecution
+Crime,insider threats
+Crime,false claims
+Crime,pyramid schemes
+Crime,illegal drug trade
+Crime,computer hacking
+Crime,art theft
+Crime,illegal poaching
+Crime,wildlife crime
+Crime,smuggling routes
+Crime,law-breaking activities
+Crime,political corruption
+Crime,dark web deals
+Crime,trafficking networks
+Crime,transnational smuggling
+Crime,arms distribution
+Crime,false arrest
+Crime,power abuse
+Crime,public misconduct
+Crime,political scams
+Crime,cyberstalking
+Crime,bribe-taking
+Crime,election fraud
+Crime,identity forging
+Crime,contract breaches
+Crime,rogue hackers
+Crime,criminal activity escalation
+Crime,criminal negligence
+Crime,drug syndicates
+Crime,illegal arms trade
+Crime,corporate espionage
+Crime,insider knowledge abuse
+Crime,police corruption
+Crime,rogue states crimes
+Crime,illegal profiteering
+Crime,pyramid scheme escalation
+Crime,corporate fraud
+Hazards,risk
+Hazards,dangerous
+Hazards,catastrophe
+Hazards,peril
+Hazards,crisis
+Hazards,emergency
+Hazards,danger zone
+Hazards,seismic hazard
+Hazards,hazardous
+Hazards,outbreak
+Hazards,epidemic
+Hazards,toxic spill
+Hazards,natural disaster
+Hazards,fire
+Hazards,earthquake
+Hazards,flood
+Hazards,storm
+Hazards,avalanche
+Hazards,volcanic eruption
+Hazards,landslide
+Hazards,tornado
+Hazards,hurricane
+Hazards,sinkhole
+Hazards,heatwave
+Hazards,plague
+Hazards,epidemic
+Hazards,biological hazard
+Hazards,radioactive leak
+Hazards,gas leak
+Hazards,pollution
+Hazards,chemical spill
+Hazards,air pollution
+Hazards,contaminated water
+Hazards,climate change
+Hazards,drought
+Hazards,deforestation
+Hazards,contaminated soil
+Hazards,high winds
+Hazards,toxic air
+Hazards,wildfires
+Hazards,smog
+Hazards,environmental collapse
+Hazards,flooding
+Hazards,insect infestation
+Hazards,radiation poisoning
+Hazards,vector-borne diseases
+Hazards,biohazard
+Hazards,mold growth
+Hazards,fracking dangers
+Hazards,oil spill
+Hazards,heat stroke
+Hazards,asphyxiation
+Hazards,methane gas
+Hazards,unsafe structures
+Hazards,frozen roads
+Hazards,traffic collision
+Hazards,nuclear disaster
+Hazards,civil disorder
+Hazards,invasion of pests
+Hazards,heavy rain
+Hazards,freezing temperatures
+Hazards,collapsing buildings
+Hazards,urban sprawl
+Hazards,car accident
+Hazards,unsafe food
+Hazards,toxic chemicals
+Hazards,electrical hazards
+Hazards,unsanitary conditions
+Hazards,unsafe working conditions
+Hazards,structural failure
+Hazards,infrastructure collapse
+Hazards,hazardous waste
+Hazards,unsafe transportation
+Hazards,biological contamination
+Hazards,contamination spread
+Hazards,faulty equipment
+Hazards,unstable terrain
+Hazards,falling objects
+Hazards,landslide threat
+Hazards,falling debris
+Hazards,uncontrolled explosions
+Hazards,toxic fumes
+Hazards,poisonous gases
+Hazards,microbe contamination
+Hazards,unsafe buildings
+Hazards,excessive noise
+Hazards,unsafe pesticides
+Hazards,radioactivity
+Hazards,extreme cold
+Hazards,extreme heat
+Hazards,airborne pollutants
+Hazards,disease outbreak
+Hazards,chemical exposure
+Hazards,deforestation effects
+Hazards,nuclear fallout
+Hazards,storm surge
+Hazards,unsafe chemicals
+Hazards,contaminated air
+Hazards,accidental explosions
+Hazards,vehicular accidents
+Hazards,industrial hazard
+Hazards,unsafe machinery
+Hazards,infection spread
+Hazards,methane explosion
+Hazards,contamination outbreak
+Hazards,exposure to toxins
+Hazards,contagious diseases
+Hazards,wild animal threat
+Hazards,emergency response failure
+Hazards,flash floods
+Hazards,rising sea levels
+Hazards,severe weather
+Hazards,biological spill
+Hazards,traffic accidents
+Hazards,unstable buildings
+Hazards,extreme weather
+Hazards,radon exposure
+Hazards,flood risk
+Hazards,fire hazard
+Hazards,dangerous driving conditions
+Hazards,toxic materials
+Hazards,deteriorating infrastructure
+Hazards,natural hazards
+Hazards,air contamination
+Hazards,factory explosion
+Hazards,structural collapse
+Hazards,rapid fire spread
+Hazards,hazardous terrain
+Hazards,flash fire
+Hazards,nuclear contamination
+Hazards,biological threat
+Hazards,carbon monoxide poisoning
+Hazards,fuel leak
+Hazards,harmful emissions
+Hazards,pesticide exposure
+Hazards,electrical fire
+Hazards,exposure to lead
+Hazards,dangerous equipment
+Hazards,exposed cables
+Hazards,forest fire
+Hazards,foodborne illness
+Hazards,infrastructure collapse
+Hazards,unsafe sewage
+Hazards,mass hysteria
+Hazards,air quality degradation
+Hazards,harmful toxins
+Hazards,drought conditions
+Hazards,hazardous environment
+Hazards,chlorine exposure
+Hazards,storm destruction
+Weapons,AK-47
+Weapons,RPG
+Weapons,grenade
+Weapons,sniper rifle
+Weapons,IED
+Weapons,assault rifle
+Weapons,rocket launcher
+Weapons,chemical weapon
+Weapons,machine gun
+Weapons,handgun
+Weapons,firearm
+Weapons,nuclear bomb
+Weapons,landmine
+Weapons,mortar
+Weapons,flame thrower
+Weapons,tactical grenade
+Weapons,ballistic missile
+Weapons,crossbow
+Weapons,shotgun
+Weapons,artillery
+Weapons,chemical agent
+Weapons,pipe bomb
+Weapons,biological weapon
+Weapons,booby trap
+Weapons,car bomb
+Weapons,dirty bomb
+Weapons,explosive device
+Weapons,claymore mine
+Weapons,surface-to-air missile
+Weapons,sabotage device
+Weapons,incendiary device
+Weapons,assault weapon
+Weapons,submachine gun
+Weapons,grenade launcher
+Weapons,sniper
+Weapons,armor-piercing bullet
+Weapons,military drone
+Weapons,bomb vest
+Weapons,RPG launcher
+Weapons,explosive charge
+Weapons,tomahawk missile
+Weapons,rocket-propelled grenade
+Weapons,flame projector
+Weapons,molotov cocktail
+Weapons,combat knife
+Weapons,tactical vest
+Weapons,fragmentation grenade
+Weapons,incendiary bomb
+Weapons,bomb-making materials
+Weapons,tear gas
+Weapons,plasma gun
+Weapons,drone strike
+Weapons,guided missile
+Weapons,chemical spill
+Weapons,bomb attack
+Weapons,flamethrower attack
+Weapons,weaponized virus
+Weapons,WMD
+Weapons,sniper attack
+Weapons,military-grade ammo
+Weapons,claymore mine attack
+Weapons,assault ammunition
+Weapons,high-explosive shells
+Weapons,toxic agent
+Weapons,firearm ammunition
+Weapons,ballistic armor
+Weapons,weapon cache
+Weapons,grenade blast
+Weapons,mortar shell
+Weapons,bomb raid
+Weapons,chemical warfare
+Weapons,rocket launcher attack
+Weapons,weaponized drone
+Weapons,battle rifle
+Weapons,gunfire exchange
+Weapons,precision bombing
+Weapons,tank warfare
+Weapons,heavy artillery
+Weapons,anti-tank weapon
+Weapons,sabotaging devices
+Weapons,explosive launchers
+Weapons,self-loading pistol
+Weapons,combat aircraft
+Weapons,subsonic ammunition
+Weapons,missile strike
+Weapons,cruise missile
+Weapons,handgun recoil
+Weapons,automatic rifle
+Weapons,hunting rifle
+Weapons,projectile weapon
+Weapons,explosive charge
+Weapons,weaponizing agents
+Weapons,shoulder-mounted missile
+Weapons,automatic shotgun
+Weapons,booby-trap bomb
+Weapons,tactical explosion
+Weapons,battlefield weaponry
+Weapons,military firearm
+Weapons,hand grenade
+Weapons,machine gunfire
+Weapons,covert weapon
+Weapons,improvised explosive device
+Weapons,sniper rifle scope
+Weapons,illegal firearm
+Weapons,military strike
+Weapons,projectile attack
+Weapons,lethal weapon
+Weapons,grenade launcher attack
+Weapons,portable missile
+Weapons,trigger-happy
+Weapons,military equipment
+Weapons,explosive warhead
+Weapons,bomb disposal
+Weapons,drone bombing
+Weapons,hypersonic missile
+Weapons,armored vehicle
+Weapons,nuclear warhead
+Weapons,shotguns
+Weapons,thermobaric bomb
+Weapons,suicide bomber
+Weapons,bomb-making
+Weapons,hostile takeover
+Weapons,shelling
+Weapons,weapon systems
+Weapons,rocket-propelled grenade launcher
+Weapons,chemical warfare agent
+Weapons,underhanded weapons
+Weapons,dangerous firearms
+Weapons,secret weapon
+Weapons,toxic warfare
+Weapons,warhead technology
+Weapons,exploding ammunition
+Weapons,biological warfare
+Weapons,defense strike
+Weapons,high-explosive device
+Weapons,anti-aircraft gun
+Weapons,rocket-propelled missile
+Weapons,fighter jet
+Weapons,anti-personnel mine
+Weapons,incendiary ammunition
+Weapons,explosive grenades
+Weapons,battle machine
+Weapons,uranium weaponry
+Weapons,long-range missiles
+Weapons,tactical assault rifle
+Weapons,infrared weapons
+Weapons,explosive barrels
+Weapons,flashbang grenade
+Weapons,anti-personnel device
+Weapons,war drone
+Insecurity,fear
+Insecurity,vulnerability
+Insecurity,anxiety
+Insecurity,panic
+Insecurity,distrust
+Insecurity,invasion
+Insecurity,threats
+Insecurity,intimidation
+Insecurity,victimization
+Insecurity,terrorism
+Insecurity,paranoia
+Insecurity,instability
+Insecurity,psychological distress
+Insecurity,harassment
+Insecurity,insecurity
+Insecurity,mistrust
+Insecurity,terror
