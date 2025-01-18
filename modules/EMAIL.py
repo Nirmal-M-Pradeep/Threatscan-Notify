@@ -36,7 +36,7 @@ def send_email(subject,body,to_email,file_path=None):
     except Exception as e:
         print(f"Error sending the email:{str(e)}")
 
-def checking_to_send_email(ASR_text,sentiment_result,detected_keywords,threshold=0.5,receiving_email="receiveproject123@gmail.com",file_path=None):
+def checking_to_send_email(ASR_text,sentiment_result,detected_keywords,threshold=0.6,receiving_email="receiveproject123@gmail.com",file_path=None):
     try:
         sentiment_score=sentiment_result.get("score",0)
         if sentiment_score>=threshold and detected_keywords:
@@ -49,21 +49,11 @@ def checking_to_send_email(ASR_text,sentiment_result,detected_keywords,threshold
                 
             )
 
-            if isinstance(detected_keywords, str):
-                body += f"- Raw Keywords: {detected_keywords}\n"
-            elif isinstance(detected_keywords, list):
-                for keyword_obj in detected_keywords:
-                    if isinstance(keyword_obj, dict):
-                        keyword = keyword_obj.get("keyword", "N/A")
-                        category = keyword_obj.get("category", "N/A")
-                        severity = keyword_obj.get("severity", "N/A")
-                        body += f"- Keyword: {keyword}, Category: {category}, Severity: {severity}\n"
-                    else:
-                        body += f"- Keyword: {str(keyword_obj)}\n"
-            else:
-                body += f"- Keywords: {str(detected_keywords)}\n"
+            for category,keywords in detected_keywords.items():
+                body +=f"- {category}: {','.join(keywords)}\n"
 
-            body += "\nThe attached audio file contains the sensitive content."
+            body+="The attached audio file contains the sensitive content."
+
             send_email(subject,body,receiving_email,file_path)
         else:
             print("No email was SENT,Either the sentiment score was below threshold or no keywords were detected")

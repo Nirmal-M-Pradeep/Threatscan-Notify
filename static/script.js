@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
     dropArea.addEventListener('drop', (e) => {
         const files = e.dataTransfer.files;
         if (files.length) {
-            if (files[0].type === 'audio/mp3' || files[0].name.endsWith('.mp3')) {
+            if (files[0].type === 'audio/mp3' || files[0].type === 'audio/wav' || files[0].name.endsWith('.mp3') || files[0].name.endsWith('.wav') || files[0].name.endsWith('.mp4') || files[0].name.endsWith('.mkv') || files[0].name.endsWith('.mov')|| files[0].name.endsWith('.avi')) {
                 fileInput.files = files;
                 statusMessage.textContent = 'File ready for upload!';
             } else {
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     fileInput.addEventListener('change', () => {
         if (fileInput.files.length) {
             const file = fileInput.files[0];
-            if (file.type === 'audio/mp3' || file.name.endsWith('.mp3')) {
+            if (file.type === 'audio/mp3' || file.type === 'audio/wav' || file.name.endsWith('.mp3') || file.name.endsWith('.wav') || file.name.endsWith('.mp4') || file.name.endsWith('.mkv') || file.name.endsWith('.mov') || file.name.endsWith('.avi')) {
                 statusMessage.textContent = 'File ready for upload!';
             } else {
                 statusMessage.textContent = 'Invalid file type. Please upload an MP3 file.';

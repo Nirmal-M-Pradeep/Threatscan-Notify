@@ -8,6 +8,7 @@ import uuid
 import whisper
 from transformers import pipeline
 import torch
+import subprocess
 
 
 app=Flask(__name__)
@@ -30,6 +31,34 @@ app.config['UPLOAD_FOLDER']=upload_folder
 
 progress={"message":""}
 processed_chunk=set()
+
+ALLOWED_VIDEO_EXTENSIONS = {'.mp4', '.avi', '.mov', '.mkv'}
+ALLOWED_AUDIO_EXTENSIONS = {'.mp3','.wav'}
+
+def is_video_file(filename):
+    return any(filename.lower().endswith(ext) for ext in ALLOWED_VIDEO_EXTENSIONS)
+
+def is_audio_file(filename):
+    return any(filename.lower().endswith(ext) for ext in ALLOWED_AUDIO_EXTENSIONS)
+
+def extract_audio_from_video(video_path, output_folder):
+    try:
+        audio_filename = f"{uuid.uuid4()}.mp3"
+        audio_path = os.path.join(output_folder, audio_filename)
+
+        command = [
+            "ffmpeg",
+            "-i", video_path,        
+            "-vn",                   
+            "-acodec", "mp3",        
+            audio_path               
+        ]
+        subprocess.run(command, check=True)
+        return audio_path
+    except Exception as e:
+        raise RuntimeError(f"Error extracting audio from video: {str(e)}")
+
+
 
 def load_processed_chunks():
     if os.path.exists("D:\\MINIPROJECTRSET\\processedchunks.txt"):
@@ -60,13 +89,19 @@ def upload_audio():
     
         if 'file' not in request.files:
             return jsonify({"error":"No file part in the request"}),400
+        
         file=request.files['file']
 
         if file.filename == '':
             return jsonify({"error":"No file selected"}),400
         
-        if not file.filename.lower().endswith(('.mp3')):
-            return jsonify({"error": "Invalid file format. Only mp3 format is supported"}), 400
+        file_extension=os.path.splitext(file.filename)[1].lower()
+
+        if not (is_audio_file(file.filename) or is_video_file(file.filename)):
+            return jsonify({"error": "Invalid file format. Only MP3 or supported video formats are allowed."}), 400
+
+
+
 
         if file:
 
@@ -74,9 +109,14 @@ def upload_audio():
                 os.makedirs(upload_folder)
 
 
-            unique_filename = f"{uuid.uuid4()}.mp3" 
+            unique_filename = f"{uuid.uuid4()}{file_extension}" 
             file_path=os.path.join(app.config['UPLOAD_FOLDER'],unique_filename)
             file.save(file_path)
+
+            if is_video_file(file.filename):
+                set_progress("Extracting Audio from Video...")
+                print("Extracting Audio from Video...")
+                file_path=extract_audio_from_video(file_path,app.config['UPLOAD_FOLDER'])
 
             try:
                 print("Reducing the noise of given audio")
@@ -97,8 +137,9 @@ def upload_audio():
                 set_progress("Analyzing text...")
                 nlp_result=integration(transcribe,sensitive_data,sentiment_analyzer=sentiment_analyzer,nlp_ner=nlp_ner)
 
-                
+                set_progress("Analyzing sentiment..")
                 sentiment_result=nlp_result['sentiment']
+                set_progress("Detecting Keywords")
                 detected_keywords=nlp_result['sensitive_keywords']
                 
                 print ("analysis complete")
